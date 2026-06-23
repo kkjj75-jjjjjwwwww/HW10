@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Temporary.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealProject\ModuleAndPlugin\Intermediate\Build\Win64\x64\ModuleAndPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\UnrealProject\ModuleAndPlugin\Plugins\Temporary\Intermediate\Build\Win64\x64\UnrealEditor\Development\Temporary\Module.Temporary.cpp.obj"
+"C:\UnrealProject\ModuleAndPlugin\Plugins\Temporary\Intermediate\Build\Win64\x64\UnrealEditor\Development\Temporary\Temporary.cpp.obj"
+"C:\UnrealProject\ModuleAndPlugin\Plugins\Temporary\Intermediate\Build\Win64\x64\UnrealEditor\Development\Temporary\TemporaryPluginActor.cpp.obj"
+"C:\UnrealProject\ModuleAndPlugin\Plugins\Temporary\Intermediate\Build\Win64\x64\UnrealEditor\Development\Temporary\Default.rc2.res"
+/OUT:"C:\UnrealProject\ModuleAndPlugin\Plugins\Temporary\Intermediate\Build\Win64\x64\UnrealEditor\Development\Temporary\UnrealEditor-Temporary.lib"

@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Temporary.cpp.obj": [
+			"Temporary.init.gen.cpp.obj",
+			"TemporaryPluginActor.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"Temporary.cpp.obj",
+			"TemporaryPluginActor.cpp.obj"
+		]
+	}
+}
